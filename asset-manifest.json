@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/travel-app/static/css/main.99cf048a.css",
-    "main.js": "/travel-app/static/js/main.9cfc73ba.js",
+    "main.js": "/travel-app/static/js/main.ef93dfa8.js",
     "static/media/maldivesVideo.mp4": "/travel-app/static/media/maldivesVideo.4b1c6a6fb879322d6587.mp4",
     "static/media/keywest.jpg": "/travel-app/static/media/keywest.1e30514942c6f50bea09.jpg",
     "static/media/maldives2.jpg": "/travel-app/static/media/maldives2.ee088b6ef17100d7f85f.jpg",
@@ -20,10 +20,10 @@
     "static/media/gold.png": "/travel-app/static/media/gold.42f7d8f40c346adfe3a7.png",
     "index.html": "/travel-app/index.html",
     "main.99cf048a.css.map": "/travel-app/static/css/main.99cf048a.css.map",
-    "main.9cfc73ba.js.map": "/travel-app/static/js/main.9cfc73ba.js.map"
+    "main.ef93dfa8.js.map": "/travel-app/static/js/main.ef93dfa8.js.map"
   },
   "entrypoints": [
     "static/css/main.99cf048a.css",
-    "static/js/main.9cfc73ba.js"
+    "static/js/main.ef93dfa8.js"
   ]
 }
